@@ -6,7 +6,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: sarimash
+  database: blog_development
   pool: 5
   username: sarimash
   password: stbr1008
